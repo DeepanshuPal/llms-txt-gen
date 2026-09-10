@@ -1,0 +1,59 @@
+# Gymshark Official Store
+
+> Unlock your full potential with our game-changing workout clothes. Shop gym clothing for the gym, running & everything in-between. Free delivery on orders over $75
+
+Gymshark Official Store is an ecommerce store at https://www.gymshark.com. This file orients AI shopping and answer agents: what the store sells, where the catalog lives, and which pages carry policies and support information.
+
+## Collections
+
+- [Gym & Workout Bottoms](https://www.gymshark.com/collections/bottoms): Explore Gymshark's gym and fitness bottoms for an exceptional fit. Running, squatting or lunging. Choose a design to fit your workout.…
+- [Women's Gym & Workout Pants](https://www.gymshark.com/collections/bottoms/womens): Women’s gym & workout pants made for training, everyday wear, and those times when your leggings feel a bit too casual.
+- [Men's Gym & Workout Pants](https://www.gymshark.com/collections/bottoms/mens): Men’s gym pants that elevate any fit. The wardrobe staple made for training and daily wear, for those scenarios where joggers are a bit…
+- [Gym Tank Tops](https://www.gymshark.com/collections/tanks): Gymshark tank tops and vests are designed to support and accentuate your physique, with distinctive design and progressive technology.
+- [Workout Tanks For Women](https://www.gymshark.com/collections/tanks/womens): Comfortable, breathable and seriously stylish, our range of women's tank tops will keep you looking and feeling cool whether you're…
+- [Men's Gym & Workout Tanks – Tank tops from Gymshark](https://www.gymshark.com/collections/tanks/mens): Workout without restriction with our Gym & Workout Tanks for Men. Shop physique enhancing Tank Tops in a range of styles. FREE DELIVERY…
+- [Men's Gym Stringers | Stringer Vest & Workout Clothing](https://www.gymshark.com/collections/stringers): View our range of gym stringer vests, a bodybuilding essential designed to set you free during the most intense workouts.
+- [Men's Stringers & Tank Tops](https://www.gymshark.com/collections/stringers/mens): Explore our physique-accentuating Stringer Vests that combine style with comfort. From old School styles to modern designs.
+- [Gym & Workout Shirts & Tops](https://www.gymshark.com/collections/t-shirts-tops): View the range of comfortable & durable Gym T-shirts created with our innovative tapered design, for the ultimate fit. Shop Now.
+- [Women's Gym & Workout Shirts & Tops](https://www.gymshark.com/collections/t-shirts-tops/womens): Explore a range of Women's Gym tops. Including Long and Short-sleeves, Oversized tees, Vests and Crop tops. Shop Now.
+- [Men's Gym Tops & T-Shirts - Workout shirts from Gymshark](https://www.gymshark.com/collections/t-shirts-tops/mens): Browse a wide range of Men's Gym & Workout T-shirts, from oversized fits to long sleeved & short sleeved. Shop Gym t-Shirts.
+- [Men's Legacy Clothing Collection](https://www.gymshark.com/collections/legacy): Our Legacy range is dedicated to bodybuilding. The Legacy range includes stringers, vests, joggers, hoodies & tracksuits that are designed…
+- [Women’s Legacy Collection](https://www.gymshark.com/collections/legacy/womens): For Women who lift. This is your Legacy, featuring the original Gymshark logo and classic fits that are designed to enhance your…
+- [Gymshark Legacy Men’s Collection | Men's Gym Clothing](https://www.gymshark.com/collections/legacy/mens): The Legacy collection is a must have for every lifter’s gym bag. Explore the full range now to find everything you need to smash your PB’s.
+- [Seamless Gym & Workout Clothing](https://www.gymshark.com/collections/seamless): Shop Seamless Gymwear with supportive fabrics, flattering fits and quality that endures. Seamless, it’s a Gymshark thing.
+- [Seamless for Women - Gymshark Seamless Gym Wear](https://www.gymshark.com/collections/seamless/womens): Experience unrivalled comfort with our shape enhancing Seamless Gymwear. Shop sculpting Seamless workout faves for women.
+- [Men's Seamless Workout Clothes & Activewear](https://www.gymshark.com/collections/seamless/mens): Shop Men's Seamless Gymwear with supportive fabrics, enhancing fits and enduring quality. Seamless, it’s a Gymshark thing.
+- [All Products | Gym & Fitness Apparel](https://www.gymshark.com/collections/all-products): Gymshark's entire collection, including workout t-shirts, bottoms, tanks, hoodies and base layers. High quality activewear made for…
+- [All Products | Women's Gym Clothes](https://www.gymshark.com/collections/all-products/womens): Searching for women's workout & gym clothes? Shop Gymshark's extensive line of workout leggings, sports bras, matching sets and more.
+- [All Products | Men's Workout Clothes](https://www.gymshark.com/collections/all-products/mens): Shop Gymshark to find breathable & comfortable men's workout clothes that will keep you feeling and looking good, even in your hardest…
+
+## Products
+
+- [Gymshark eGift Card - eGift Card](https://www.gymshark.com/products/gift-card): Shop the eGift Card in egift card. With next day delivery and free returns, shop online today at Gymshark.
+- [Gymshark Scoop Neck Sports Bra - Brown](https://www.gymshark.com/products/gymshark-scoop-neck-training-sports-bra-brown): Shop the Scoop Neck Sports Bra in brown. With next day delivery and free returns, shop online today at Gymshark.
+- [Gymshark Training Cropped Leggings - Pink](https://www.gymshark.com/products/gymshark-training-cropped-leggings-pink): Shop the Training Cropped Leggings in pink. With next day delivery and free returns, shop online today at Gymshark.
+- [Gymshark Vital Seamless 2.0 Shorts - Obsidian Green Marl](https://www.gymshark.com/products/gymshark-vital-seamless-shorts-dark-green-marl-logo): Shop the Vital Seamless 2.0 Shorts in obsidian green marl. With next day delivery and free returns, shop online today at Gymshark.
+- [Gymshark Vital Regular Leggings - Obsidian Green Marl](https://www.gymshark.com/products/gymshark-vital-seamless-leggings-dark-green-marl-logo): Shop the Vital Regular Leggings in obsidian green marl. With next day delivery and free returns, shop online today at Gymshark.
+- [Gymshark Vital Crop Top - Black Marl](https://www.gymshark.com/products/gymshark-vital-seamless-2-0-crop-top-black-marl-ss23): Shop the Vital Crop Top in black marl. With next day delivery and free returns, shop online today at Gymshark.
+- [Gymshark Vital Crop Top - Obsidian Green Marl](https://www.gymshark.com/products/gymshark-vital-seamless-long-sleeve-crop-top-dark-green-marl-logo): Shop the Vital Crop Top in obsidian green marl. With next day delivery and free returns, shop online today at Gymshark.
+- [Gymshark Vital Seamless 2.0 Shorts - Black Marl](https://www.gymshark.com/products/gymshark-vital-seamless-shorts-black-marl-logo): Shop the Vital Seamless 2.0 Shorts in black marl. With next day delivery and free returns, shop online today at Gymshark.
+- [Gymshark Training Oversized T-Shirt - Black](https://www.gymshark.com/products/gymshark-training-oversized-t-shirt-black-logo): Shop the Training Oversized T-Shirt in black. With next day delivery and free returns, shop online today at Gymshark.
+- [Gymshark Training Oversized T-Shirt - White](https://www.gymshark.com/products/gymshark-training-oversized-t-shirt-white-logo): Shop the Training Oversized T-Shirt in white. With next day delivery and free returns, shop online today at Gymshark.
+
+## Information
+
+- [Gym Clothes & Workout Clothes](https://www.gymshark.com/): Unlock your full potential with our game-changing workout clothes. Shop gym clothing for the gym, running & everything in-between. Free…
+- [1](https://www.gymshark.com/pages/1): Submit a fake You may have heard that imitation is the sincerest form of flattery. And whilst that's a nice way to put it - we've got no…
+- [Gymshark Careers](https://www.gymshark.com/pages/careers): Gymshark Careers
+- [Shop Men's Gym Clothes & Workout Clothes](https://www.gymshark.com/pages/shop-men): Shop the official Gymshark store today to find premium men's workout clothing. We offer a wide variety of gym shorts, t-shirts, joggers…
+- [reviews policy](https://www.gymshark.com/pages/reviews-policy): Gymshark Help, Support and FAQs. Find information about Gymshark orders, deliveries, payments, technical issues and returns.
+- [Gym Clothes & Workout Clothes](https://www.gymshark.com/pages/home): Unlock your full potential with our game-changing workout clothes. Shop gym clothing for the gym, running & everything in-between. Free…
+- [Shop Women's Gym Clothes & Workout Clothes](https://www.gymshark.com/pages/shop-women): Explore Gymshark's women's workout clothes including leggings, cycle shorts, sports bras and more. Look great & perform your best in our…
+- [Shop The Pink Aesthetic](https://www.gymshark.com/pages/pink-trend): The sets you love. Even more loveable in pink. Shop the ultimate soft girl aesthetic.
+- [The Gymshark App - The Best Of Gymshark Anytime, Anywhere](https://www.gymshark.com/pages/gymshark-app): Download the Gymshark app to access the best of Gymshark anytime, anywhere. Access exclusive products, build your wishlist and more.
+- [Relay - The Hybrid Girl Uniform](https://www.gymshark.com/pages/relay): It’s time to meet Relay, the new hybrid girl uniform that looks good, feels good & works hard.
+- [CUSTOMER RATINGS AND REVIEWS AND QUESTIONS AND ANSWERS TERMS OF USE](https://www.gymshark.com/pages/customer-ratings-reviews-questions-answers-terms-of-use): Gymshark Help, Support and FAQs. Find information about Gymshark orders, deliveries, payments, technical issues and returns.
+- [The Gymshark Black Friday & Cyber Monday Sale 2026](https://www.gymshark.com/pages/black-friday): The place where you’ll get answers to every Gymshark Black Friday FAQ, and where you can start planning your wishlist for the deals on…
+- [Sports bras](https://www.gymshark.com/pages/sports-bras): Sports bras
+- [Everyday Seamless](https://www.gymshark.com/pages/everyday-seamless): Own the chaos of everyday life in Everyday Seamless, the soft, ultra-lightweight, second-skin sets you’ll want to wear for gym, life and…
+- [Terms of Use](https://www.gymshark.com/pages/terms-of-use): Gymshark Help, Support and FAQs. Find information about Gymshark orders, deliveries, payments, technical issues and returns.
