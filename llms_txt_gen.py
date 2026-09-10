@@ -22,13 +22,21 @@ import sys
 from crawler import Crawler, CrawlResult, Page
 
 
+def _norm(s: str) -> str:
+    return re.sub(r"[®™]", "", s).strip().lower()
+
+
 def clean_title(title: str, store_name: str) -> str:
     """Strip store-name boilerplate and SEO cruft from a page title."""
     t = title.strip()
+    store_words = set(_norm(store_name).split())
     for sep in (" | ", " – ", " — ", " - ", " :: "):
         if sep in t:
             parts = [p.strip() for p in t.split(sep)]
-            parts = [p for p in parts if p and p.lower() != store_name.lower()]
+            parts = [p for p in parts
+                     if p and _norm(p) != _norm(store_name)
+                     and not (len(_norm(p).split()) == 1
+                              and _norm(p) in store_words)]
             if parts:
                 t = parts[0] if len(parts) == 1 else sep.join(parts)
             break
