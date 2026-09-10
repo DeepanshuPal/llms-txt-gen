@@ -7,6 +7,8 @@ and meta description. Respects robots.txt disallow rules throughout.
 
 from __future__ import annotations
 
+import html
+import re
 import time
 import urllib.robotparser
 import xml.etree.ElementTree as ET
@@ -60,7 +62,7 @@ class _MetaProbe(HTMLParser):
             self._in_title = True
         elif tag == "meta" and (a.get("name") or "").lower() == "description":
             if a.get("content") and not self.description:
-                self.description = a["content"].strip()
+                self.description = html.unescape(a["content"]).strip()
 
     def handle_endtag(self, tag):
         if tag == "title":
@@ -68,7 +70,7 @@ class _MetaProbe(HTMLParser):
 
     def handle_data(self, data):
         if self._in_title and not self.title:
-            self.title = data.strip()
+            self.title = html.unescape(data).strip()
 
 
 def _get(session, url, timeout):
@@ -157,6 +159,9 @@ class Crawler:
         probe.feed(resp.text[:200_000])  # head of the doc is enough for title/meta
         page.title = probe.title
         page.description = probe.description
+        # soft 404: server says 200 but the page is an error template
+        if re.search(r"(?i)page not found|^404\b|not found$", page.title or ""):
+            return False
         return True
 
     def crawl(self, max_products=12, max_collections=20, max_pages=15,
