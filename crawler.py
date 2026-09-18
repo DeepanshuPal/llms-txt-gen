@@ -118,6 +118,7 @@ class Crawler:
         self.base = base_url.rstrip("/")
         self.delay = delay
         self.timeout = timeout
+        self.user_agent = user_agent
         self.session = requests.Session()
         self.session.headers.update({"User-Agent": user_agent})
         self.robots = urllib.robotparser.RobotFileParser()
@@ -130,7 +131,7 @@ class Crawler:
     def _allowed(self, url: str) -> bool:
         if not self.result.robots_found:
             return True
-        ok = self.robots.can_fetch(DEFAULT_UA, url)
+        ok = self.robots.can_fetch(self.user_agent, url)
         if not ok:
             self.result.skipped_by_robots += 1
         return ok
@@ -143,7 +144,7 @@ class Crawler:
         self.robots.parse(resp.text.splitlines())
         # blanket block of everything?
         self.result.robots_disallowed_root = not self.robots.can_fetch(
-            DEFAULT_UA, self.base + "/")
+            self.user_agent, self.base + "/")
         import re
         return re.findall(r"(?im)^sitemap:\s*(\S+)", resp.text)
 
